@@ -1,0 +1,7 @@
+{
+  "hostname":"your_hostname",
+  "username":"minecraft",
+  "password":"your_password(but, it's not recommended. pls use private key)",
+  "private_key_path": "path/to/private/key",
+  "groups": ["your_group1", "your_group2", "your_group3"]
+}
