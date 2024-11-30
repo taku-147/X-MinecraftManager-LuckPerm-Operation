@@ -10,6 +10,10 @@ MinecraftのLuckPermのグループ別ユーザー管理をやりやすくする
 
 ### 個人サーバー
 - screenが利用可能であること
+- screenのminecraftという名前でターミナルを立てていること
+  - 例: `screen -S minecraft`
+  - このターミナルからサーバーを起動していること
+- /opt/minecraft/にminecraftがインストールされていること
 - sudo権限があること
 
 ## 使い方

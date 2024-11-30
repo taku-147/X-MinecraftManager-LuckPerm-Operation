@@ -2,7 +2,7 @@ import paramiko
 import gzip
 import io
 import json
-ver = "0.0.2"
+ver = "1.0.0"
 print(f'X-MinecraftManager-LuckPerms-Operation ver.{ver}')
 print("--------------------------------------")
 
